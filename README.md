@@ -8,4 +8,4 @@
 &emsp; 这个Demo是将这两者都结合起来应用。
 
 ##相关博文
-&emsp; 关于本Demo我在我的博客上写了一篇相关的博文 RecyclerView+SwipeRefreshLayout优雅的取代ListView控件 ("http://rovervan.com/post/android/rvwsrl") 点击电梯直达，也非常欢迎大家与我交流和我讨论。
+&emsp; 关于本Demo我在我的博客上写了一篇相关的博文 RecyclerView+SwipeRefreshLayout优雅的实现封面式列表 ("http://rovervan.com/post/android/rvwsrl") 点击电梯直达，也非常欢迎大家与我交流和我讨论。
