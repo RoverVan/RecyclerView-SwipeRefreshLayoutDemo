@@ -1,5 +1,5 @@
 ##初衷
-&emsp; Hi,i'm Rover Van.在最近的Android开发中呢，我想要实现一个能下拉刷新图片式的list列表。
+&emsp; Hi,i'm Rover Van.在最近的Android开发中呢，我想要实现一个能下拉刷新的图片式list列表。
 
 &emsp; 这要是在之前一般都是用ListView实现的，在2014年 Google I/O 推出的RecyclerView到了去年才渐渐被人重视并使用，比起ListView，RecycleView显得非常艺术，更加灵活。主要表现在性能，动画，自定义性要比ListView优越的多，Google官方都提倡以RecyclerView替代ListView。
 
